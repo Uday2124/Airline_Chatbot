@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+
+.adk/
+**/.adk/
+app/.adk/artifacts/
+
+db_data/
+travel_vectorstore/
+
+.vscode/
+.idea/
+*.log

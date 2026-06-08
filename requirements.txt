@@ -1,0 +1,11 @@
+google-adk
+chromadb
+sentence-transformers
+pypdf
+litellm
+python-dotenv
+langchain-community
+langchain-text-splitters
+
+#pip install google-adk chromadb sentence-transformers pypdf litellm python-dotenv langchain-community langchain-text-splitters
+
